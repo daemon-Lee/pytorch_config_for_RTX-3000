@@ -1,0 +1,1 @@
+# pytorch_config_for_RTX-3000
